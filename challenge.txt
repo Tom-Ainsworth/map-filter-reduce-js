@@ -1,0 +1,28 @@
+Advanced JavaScript - The filter method
+When learning about filter method you were taught it creates a new array from all the items that pass a test by the supplied function. 
+ 
+In particular, you will:
+Work with the filter method.
+Arrow functions
+Log values to the terminal
+Result
+Your result should look like the image below.
+
+
+
+Challenge Submission
+Whenever you complete a challenge step, view the result by clicking on the run button above the code editor and viewing the output in the result window.
+Test your answer by clicking on the " run tests " button that is next to the run button.
+A feedback panel will pop up to show you your result.
+If your code passes its associated test (will be colored green) move on to the next challenge step.
+If code fails its associated test (colored red), click on the failed tests to reveal a hint as to what might have gone wrong.
+Fix the error before moving on to the next challenge step
+Once your code passes all the tests (will be colored green) go ahead and submit your answer by first clicking the submit button on the top right of the CodeIt window then clicking submit again on the resulting popup window.
+Move on to the next unit in the course.
+Steps
+You will create a single line of code that should filter the students array and return only the items whos maths scores are greater than or equal to  90.  As this needs to be done in a single line of code, you will also be required to use an arrow function that does not have a return statement.
+
+1. Create a variable named: topMaths using the const keyword
+2. Assign it a value from using the filter method on the students array
+3. Use a single line arrow function within the filter method (should not use a return statement)
+4. Log out the variable topMaths
